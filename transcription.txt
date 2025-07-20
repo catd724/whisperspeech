@@ -1,0 +1,3 @@
+Time 0.0min:
+I was unable to summarize the video due to an error from the summarization tool. Eraduring node execution, bad request please check your parameters. A summary cannot be provided at this time.
+

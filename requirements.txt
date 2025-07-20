@@ -1,0 +1,5 @@
+Flask
+edge_tts
+yt_dlp
+whisper
+pydub
